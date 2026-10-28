@@ -1,0 +1,4 @@
+﻿configuration,questions_in_run,overall_correct,overall_total,overall_accuracy_percent,factual_correct,factual_total,factual_accuracy_percent,fallback_correct,fallback_total,fallback_accuracy_percent,median_generation_seconds,median_total_seconds
+qwen_only,12,9,12,75.0,5,8,62.5,4,4,100.0,11.69,11.79
+llama_only,12,8,12,66.7,4,8,50.0,4,4,100.0,24.95,25.14
+ml_router,12,9,12,75.0,5,8,62.5,4,4,100.0,3.8,3.94

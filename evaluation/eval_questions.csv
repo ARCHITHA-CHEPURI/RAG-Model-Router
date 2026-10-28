@@ -1,0 +1,13 @@
+﻿query_id,query,expected_answer,expected_source,query_type
+Q01,What are the two fundamental components of a RAG architecture?,Information retrieval and generation.,rag pdf.pdf,factual
+Q02,What does hybrid retrieval combine in a RAG system?,Dense vector search with traditional keyword-based methods.,rag pdf.pdf,factual
+Q03,What neural network architecture does the paper Attention Is All You Need propose?,"The Transformer, based solely on attention mechanisms and dispensing with recurrence and convolutions.",NIPS-2017-attention-is-all-you-need-Paper.pdf,factual
+Q04,"What BLEU score did the Transformer achieve on the WMT 2014 English-to-German translation task, according to the paper?",28.4 BLEU.,NIPS-2017-attention-is-all-you-need-Paper.pdf,factual
+Q05,What are the five core values of the Tata group listed in its Code of Conduct?,"Integrity, Unity, Responsibility, Pioneering, and Excellence.",tcs_cod.pdf,factual
+Q06,"In what year was Microsoft founded, according to its 2024 annual report?",1975.,2024_Annual_Report.docx,factual
+Q07,"What was IBM's total revenue in the second quarter of 2025, and how much did it grow?","Revenue was $17.0 billion, up 8 percent (5 percent at constant currency).",ibm-2q25-earnings-press-release.pptx,factual
+Q08,"Which organization published Dietary Guidelines for Indians, and what year was the second edition published?",The National Institute of Nutrition (NIN); the second edition was published in 2011.,DietaryGuidelinesforNINwebsite.pdf,factual
+Q09,What is the capital of France?,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope
+Q10,Who won the latest FIFA World Cup?,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope
+Q11,What is the current weather in Tokyo?,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope
+Q12,Explain how to deploy a Kubernetes cluster on AWS.,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope

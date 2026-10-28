@@ -1,0 +1,7 @@
+﻿query_id,query,expected_answer,expected_source,query_type
+T01,What are the two fundamental components of a RAG architecture?,Information retrieval and generation.,rag pdf.pdf,factual
+T02,What does hybrid retrieval combine in a RAG system?,Dense vector search with traditional keyword-based methods.,rag pdf.pdf,factual
+T03,What neural network architecture does the paper Attention Is All You Need propose?,"The Transformer, based solely on attention mechanisms and dispensing with recurrence and convolutions.",NIPS-2017-attention-is-all-you-need-Paper.pdf,factual
+T04,"What BLEU score did the Transformer achieve on the WMT 2014 English-to-German translation task, according to the paper?",28.4 BLEU.,NIPS-2017-attention-is-all-you-need-Paper.pdf,factual
+T05,How do I deploy a Kubernetes cluster on AWS?,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope
+T06,What is the capital of France?,"I'm sorry, but the provided documents do not contain any information related to your question.",,out_of_scope
